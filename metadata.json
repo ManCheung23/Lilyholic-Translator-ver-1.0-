@@ -1,0 +1,5 @@
+{
+  "name": "Lilyholic Translator (ver 1.0)",
+  "description": "Một công cụ hỗ trợ dịch thuật truyện chữ (tiểu thuyết Trung Quốc) từ tiếng Trung sang tiếng Việt, chuyên thể loại Bách hợp, sử dụng Gemini API để đảm bảo văn phong tự nhiên và chính xác.",
+  "requestFramePermissions": []
+}
